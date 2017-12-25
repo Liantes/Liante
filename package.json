@@ -1,0 +1,22 @@
+{
+  "name": "liante",
+  "version": "0.0.1",
+  "description": "Server para liantes",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Liantes/Liante"
+  },
+  "author": {
+    "name": "Sebastián Cabanas",
+    "url": "https://github.com/Sediug"
+  },
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-debug": "3.1.0",
+    "gulp-eslint": "4.0.0",
+    "gulp-jsdoc3": "1.0.1"
+  }
+}
